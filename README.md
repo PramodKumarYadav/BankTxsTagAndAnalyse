@@ -3,6 +3,9 @@
 I created this macro to analyse my quarterly bank statements to filter out txs relevant for my company. 
 Note: This is an ugly solution that works. I could have done this better but I have worked in VBA long back and didnt really want to spend more time working on old tech (this macro). If you are interested to improve, you are more then welcome to create a PR and I will be happy to merge it in the master. 
 
+# Note:
+This is an early version and if you decide to try, you will try it at your own risk. If you find any bugs, feel free to report or fix yourselves in a PR. I do not gurantee that this is error free (since I havent tested it enough). I hope it works okay but its free of any legal obligations (basically do not sue me if it doesnt work for you :) - try at  your own risk). 
+
 1. Download your ABN AMRO bank txs in excel format in an XLS.
 2. Save this XLS as XLSM.
 3. Rename the txs sheet as 'test'
