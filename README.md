@@ -1,6 +1,7 @@
 # BankTxsTagAndAnalyse
-Note: This is an ugly solution that works. I could have done this better but I have worked in VBA long back and didnt really want to spend more time improving this. 
-If you are interested to improve, you are more then welcome to create a PR and I will be happy to merge it in the master. 
+# Goal: 
+I created this macro to analyse my quarterly bank statements to filter out txs relevant for my company. 
+Note: This is an ugly solution that works. I could have done this better but I have worked in VBA long back and didnt really want to spend more time working on old tech (this macro). If you are interested to improve, you are more then welcome to create a PR and I will be happy to merge it in the master. 
 
 1. Download your ABN AMRO bank txs in excel format in an XLS.
 2. Save this XLS as XLSM.
